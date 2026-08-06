@@ -1,3 +1,4 @@
 [
-  {"token": "472197215", "account": 472197215, "name": "Client A", "active": true}
+  {"token": "472197215", "account": 472197215, "name": "Client A", "active": true},
+  {"token": "49256208", "account": 49256208, "name": "Client B", "active": true}
 ]
